@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header {
+	background-color: green;
+	width: 100vw;
+	height: 80px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+	line-height: 80px;
+}
